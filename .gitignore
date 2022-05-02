@@ -8,8 +8,8 @@ preprocessing/
 split/msd/7D_id_to_path.pkl
 split/msd/filtered_list_test.cP
 split/msd/filtered_list_train.cP
-split/MSD_id_to_7D_id.pkl
-split/msd_id_to_tag_vector.cP
+split/msd/MSD_id_to_7D_id.pkl
+split/msd/msd_id_to_tag_vector.cP
 split/msd/README.md
 split/mtat/binary.npy
 split/mtat/test.npy
@@ -23,3 +23,4 @@ training/robustness.py
 training/solver.py
 cog.yaml
 predict.py
+**/.DS_Store
